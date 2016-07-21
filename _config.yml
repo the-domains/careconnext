@@ -1,0 +1,28 @@
+name: CareConnext
+favicon: null
+layout_spectrum: 0.4679620254319161
+typography_spectrum: 0.3473242337349802
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.3183756759390235
+  lightness: 0.39019862771965563
+  saturation: 0.3530901181511581
+  rhythmicContrast: 0.2908306203316897
+purpose: []
